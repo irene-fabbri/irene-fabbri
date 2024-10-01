@@ -1,5 +1,5 @@
 # Irene Fabbri
-**`Software Engineer to be/Physicist/Teacher`**
+**`Software Engineer to be | Physicist | Teacher`**
 
 
 ### 🧰 Languages and Tools
