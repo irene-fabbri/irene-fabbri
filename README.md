@@ -5,7 +5,7 @@
    Other than programming, I love reading, theatre and art in all its shapes and forms.
 </p>
 
-## 🧰 Languages and Tools
+## Languages and Tools 🧰
    <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
    <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
    <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -18,7 +18,7 @@
    <img align="left" alt="Fortran" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortran/fortran-original.svg" />
 
 ##
-## 👋 Where to find me
+## Where to find me 👋
    <a href="https://github.com/irene-fabbri" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
    <a href="https://www.linkedin.com/in/ifabbri" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
    <a href="mailto:irenefabbri.ed@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
