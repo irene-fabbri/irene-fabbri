@@ -1,10 +1,15 @@
 # Irene Fabbri
 **`Software Engineer to be | Physicist | Teacher`**
-<p>
+
    Hi! I am Irene from Rome, Italy 🍕
    Other than programming, I love reading, theatre and art in all its shapes and forms.
 </p>
-
+<p>
+   ❗This profile is currently under construction. The code I wrote for
+      - Harvard's CS50 and CS50W
+      - Duke's Java Programming and Software Engineering Fundamentals
+   will be here next week.
+</p>
 ## Languages and Tools 🧰
    <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
    <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -23,7 +28,10 @@
    <a href="https://www.linkedin.com/in/ifabbri" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
    <a href="mailto:irenefabbri.ed@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 ##
-
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/css/flag-icons.min.css"
+/>
 <!---
 irene-fabbri/irene-fabbri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
