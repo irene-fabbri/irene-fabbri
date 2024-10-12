@@ -5,8 +5,9 @@
    Other than programming, I love reading, theatre and art in all its shapes and forms.
 
    ❗This profile is currently under construction. The code I wrote for
-      - Harvard's CS50W
-      - Duke's Java Programming and Software Engineering Fundamentals
+   - Harvard's CS50W
+   - Duke's Java Programming and Software Engineering Fundamentals
+
    will be here next week.
 
 ## Languages and Tools 🧰
