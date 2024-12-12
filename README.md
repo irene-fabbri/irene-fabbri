@@ -4,12 +4,6 @@
    Hi! I am Irene from Rome, Italy 🍕
    Other than programming, I love reading, theatre and art in all its shapes and forms.
 
-   ❗This profile is currently under construction. The code I wrote for
-   - Harvard's CS50W
-   - Duke's Java Programming and Software Engineering Fundamentals
-
-   will be here next week.
-
 ## Languages and Tools 🧰
    <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
    <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
